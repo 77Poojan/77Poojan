@@ -1,50 +1,33 @@
-# Pujan-Bade
-## Hi there 👋
 
-•⁠  ⁠👋I’m @Pujan Bade
-•⁠  ⁠👀 I’m interested in Programming, Web Design and anything that I can take benefit of for my career..
-•⁠  ⁠💞️ I’m looking to collaborate on anything that helps me improve and matches my time schedule.
-•⁠  ⁠📫 How to reach me- You may contact me through mail for now (poojanbade75@gmail.com)<br/>
- 
-![](https://komarev.com/ghpvc/?username=77Poojan&color=orange)
+# [Pujan Bade]
 
+## About Me:
+• 👋 Hi, I'm **[Pujan Bade]**, a passionate Software Engineer with a keen interest in full stack and development deployment through hands-on projects.  
+• 🚀 I am always looking for opportunities to collaborate on projects that will enhance my skills and align with my professional aspirations.  
+• 📫 You can reach me via email: poojanbade75@gmail.com
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=77POojan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=77Poojan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=77Poojan&theme=dark&hide_border=false)<br/>
+---
 
+## 📊 GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=dark&hide_border=true)
 
-<!-- Snake Contrib Graph -->
+---
+
+## 🛠️ My Skills:
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/luluw8071/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## :wrench: My Skills</h2></summary>
-<div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,nextjs,mysql,postgres,django,csharp,flutter,html,css,typescript,php" alt="Programming Languages & Frameworks" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,laravel,vercel" alt="Styling & Deployment Tools" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,googlemaps,huggingface" alt="AI & APIs" height="50"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,nextjs,mysql,postgres,django,csharp,flutter,html,css,typescript,php" alt="Programming Languages & Frameworks" height="50"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,laravel,vercel" alt="Styling & Deployment Tools" height="50"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,googlemaps,huggingface" alt="AI & APIs" height="50"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github" alt="Tools" height="50"/>
 </div>
 
+---
 
-</summary>
+## 🌐 Socials:
+- [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username])  
+- [Discord](https://discordapp.com/users/[your-discord-id])  
+- [Email](mailto:[your-email@example.com])
 
-<p align="right">
-  </br>
-  <img align = "right" src="follow.gif" height="100%" width="35%" style="vertical-align: top;">
-</p>
-
-<div align="left">
-  
-### :star2: Socials :rocket:
-[<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](www.linkedin.com/in/pujanbade)
-[<img width="35px" src="https://skillicons.dev/icons?i=discord"/>](https://discordapp.com/users/600529917977034753)
-[<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:poojanbade75@gmail.com)
-
-</div>
+---
