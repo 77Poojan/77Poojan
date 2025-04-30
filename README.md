@@ -43,8 +43,6 @@
 <div align="left">
   
 ### :star2: Socials :rocket:
-[<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](www.linkedin.com/in/pujanbade)
-[<img width="35px" src="https://skillicons.dev/icons?i=discord"/>](https://discordapp.com/users/600529917977034753)
 [<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:poojanbade75@gmail.com)
 
 </div>
