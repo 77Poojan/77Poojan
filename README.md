@@ -34,14 +34,11 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 
 ## 🌐 Connect with Me
 
-[<img width="35px" src="https://skillicons.dev/icons?i=gmail" />](mailto:poojanbade75@gmail.com)
-
 ---
 <!-- Social Icons Centered -->
 <p align="center">
-  <a href="mailto:poojanbade75@gmail.com">
-    <img width="35px" src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
+  [<img width="35px" src="https://skillicons.dev/icons?i=gmail" />](mailto:poojanbade75@gmail.com)
+
   <a href="https://www.linkedin.com/in/pujan-bade-746175155" target="_blank">
     <img width="40px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
