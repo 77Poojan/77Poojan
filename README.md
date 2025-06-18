@@ -14,20 +14,13 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=77Poojan&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77Poojan&layout=compact&theme=github_dark&hide_border=true" height="150" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=77Poojan&theme=github-dark&hide_border=true" height="150" />
-</p>
+[<img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
+[<img width="405px" src="https://github-readme-stats.vercel.app/api?username=luluw8071&theme=tokyonight&show_icons=true&hide_border=true"/>](#)
 
 ---
 
 ## 🧠 Technical Skills
+
 <div align="center">
   <!-- Tech Stack Icons -->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,nodejs,express,prisma,react,nextjs,flutter,html,css,tailwind,bootstrap,vercel,aws,postgres,mysql,chatgpt,claude,huggingface,vscode,github,git,socketio,pipeline" height="80" alt="Tech Stack" />
