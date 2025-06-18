@@ -42,14 +42,8 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
   <a href="mailto:poojanbade75@gmail.com">
     <img width="35px" src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pujan-bade-746175155" target="_blank">
     <img width="40px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-</p>
-
-<!-- Follow Animation Aligned Right -->
-<p align="right">
-  <img src="follow.gif" height="100%" width="35%" />
 </p>
 
