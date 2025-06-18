@@ -15,7 +15,7 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 
 <div align="center">
   <!-- Tech Stack Icons -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,nodejs,express,prisma,react,nextjs,flutter,html,css,tailwind,bootstrap,vercel,aws,postgres,mysql,chatgpt,claude,huggingface,vscode,github,git,socketio,pipeline" height="80" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,nodejs,express,prisma,react,nextjs,flutter,html,css,tailwind,bootstrap,vercel,aws,postgres,mysql,chatgpt,claude,huggingface,vscode,github,git,socketio,pipeline" height="80" alt="Tech Stack" />
 </div>
 
 
