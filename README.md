@@ -1,48 +1,56 @@
-# Pujan-Bade
-## Hi there 👋
+# Pujan Bade
 
-👋 Hi, I’m Pujan Bade — a Senior Developer and Project Lead with a strong focus on building scalable applications and leading high-impact development teams.
-👀 I’m passionate about programming, web architecture, and adopting new technologies that drive innovation and efficiency.
-🤝 I’m open to collaborating on strategic projects, contributing to open-source initiatives, and mentoring developers who are eager to grow.
-📫 You can reach me at poojanbade75@gmail.com <br/>
- 
-![](https://komarev.com/ghpvc/?username=77Poojan&color=orange)
+## 👋 Welcome!
 
+I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for building scalable applications and leading high-performing teams. With a strong foundation in backend architecture, frontend frameworks, and cloud deployment, I thrive in driving projects from concept to launch with precision and purpose.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=77POojan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=77Poojan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=77Poojan&theme=dark&hide_border=false)<br/>
+- 👀 I’m deeply interested in programming, web architecture, and leveraging emerging technologies to solve real-world problems.
+- 🤝 I’m open to collaborating on impactful projects, contributing to open-source communities, and mentoring aspiring developers.
+- 📫 Reach me at: **[poojanbade75@gmail.com](mailto:poojanbade75@gmail.com)**
 
+![Profile Views](https://komarev.com/ghpvc/?username=77Poojan&color=orange)
 
-<!-- Snake Contrib Graph -->
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=77Poojan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=77Poojan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=77Poojan&theme=dark&hide_border=false)
+
+---
+
+## 🧠 Technical Skills
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,nextjs,mysql,postgres,django,csharp,flutter,html,css,typescript,php" height="40" alt="Languages & Frameworks" />
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,laravel,vercel" height="40" alt="Styling & Deployment Tools" />
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,googlemaps,huggingface" height="40" alt="AI & APIs" />
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github" height="40" alt="Dev Tools" />
+</div>
+
+---
+
+## 🌱 Contribution Activity
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/luluw8071/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/luluw8071/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-## :wrench: My Skills</h2></summary>
-<div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,nextjs,mysql,postgres,django,csharp,flutter,html,css,typescript,php" alt="Programming Languages & Frameworks" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,laravel,vercel" alt="Styling & Deployment Tools" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,googlemaps,huggingface" alt="AI & APIs" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github" alt="Tools" height="50"/>
-</div>
+---
 
+## 🌐 Connect with Me
 
-</summary>
+[<img width="35px" src="https://skillicons.dev/icons?i=gmail" />](mailto:poojanbade75@gmail.com)
+
+---
 
 <p align="right">
-  </br>
-  <img align = "right" src="follow.gif" height="100%" width="35%" style="vertical-align: top;">
+  <img src="follow.gif" height="100%" width="35%" />
 </p>
-
-<div align="left">
-  
-### :star2: Socials :rocket:
-[<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:poojanbade75@gmail.com)
-
-</div>
