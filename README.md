@@ -10,18 +10,6 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 
 ![Profile Views](https://komarev.com/ghpvc/?username=77Poojan&color=orange)
 
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=poojanbade75&theme=dark&hide_border=true" />
-  <img width="405px" src="https://github-readme-stats.vercel.app/api?username=poojanbade75&theme=tokyonight&show_icons=true&hide_border=true" />
-</p>
-
----
 
 ## 🧠 Technical Skills
 
