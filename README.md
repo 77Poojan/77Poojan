@@ -24,11 +24,15 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 
 <div align="center">
   <!-- Tech Stack Icons -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,nodejs,express,prisma,react,nextjs,flutter,html,css,tailwind,bootstrap,laravel,vercel,aws,postgres,mysql,chatgpt,claude,googlemaps,huggingface,vscode,github,git,socketio,pipeline" height="40" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,nodejs,express,prisma,react,nextjs,flutter,html,css,tailwind,bootstrap,laravel,vercel,aws,postgres,mysql,chatgpt,claude,huggingface,vscode,github,git,socketio,pipeline" height="40" alt="Tech Stack" />
   
   <!-- Custom EPOSNow Icon -->
   <img src="https://i.postimg.cc/HLzq3QdC/eposnow-logo.png" height="40" alt="EPOSNow" />
+
+  <!-- Custom Leaflet Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Leaflet_Logo.svg" height="40" alt="Leaflet" />
 </div>
+
 
 ---
 
