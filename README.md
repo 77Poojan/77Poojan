@@ -16,9 +16,9 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourActualUsername&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourActualUsername&layout=compact&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourActualUsername&theme=github-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=77Poojan&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77Poojan&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=77Poojan&theme=github-dark&hide_border=true" height="150" />
 </p>
 
 ---
