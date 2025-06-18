@@ -11,17 +11,16 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 ![Profile Views](https://komarev.com/ghpvc/?username=77Poojan&color=orange)
 
 ---
+
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77Poojan&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=77Poojan&show_icons=true&theme=github_dark&hide_border=true&hide_title=false" height="150" alt="GitHub Stats" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=77Poojan&theme=github-dark&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourActualUsername&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourActualUsername&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourActualUsername&theme=github-dark&hide_border=true" height="150" />
 </p>
+
 ---
 
 ## 🧠 Technical Skills
