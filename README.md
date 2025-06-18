@@ -23,7 +23,7 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 ## 🧠 Technical Skills
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,nextjs,mysql,postgres,django,csharp,flutter,html,css,typescript,php" height="40" alt="Languages & Frameworks" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,eposnow,nodejs,prisma,react,nextjs,postgres,mysql,flutter,html,css" height="40" alt="Languages & Frameworks" />
   <br />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,laravel,vercel" height="40" alt="Styling & Deployment Tools" />
   <br />
