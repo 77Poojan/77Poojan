@@ -13,11 +13,15 @@ I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=77Poojan&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77Poojan&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=77Poojan&theme=github-dark&hide_border=true" height="150" />
 </p>
 
