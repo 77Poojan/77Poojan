@@ -1,10 +1,10 @@
 # Pujan-Bade
 ## Hi there 👋
 
-•⁠  ⁠👋I’m @Pujan Bade
-•⁠  ⁠👀 I’m interested in Programming, Web Design and anything that I can take benefit of for my career..
-•⁠  ⁠💞️ I’m looking to collaborate on anything that helps me improve and matches my time schedule.
-•⁠  ⁠📫 How to reach me- You may contact me through mail for now (poojanbade75@gmail.com)<br/>
+👋 Hi, I’m Pujan Bade — a Senior Developer and Project Lead with a strong focus on building scalable applications and leading high-impact development teams.
+👀 I’m passionate about programming, web architecture, and adopting new technologies that drive innovation and efficiency.
+🤝 I’m open to collaborating on strategic projects, contributing to open-source initiatives, and mentoring developers who are eager to grow.
+📫 You can reach me at poojanbade75@gmail.com <br/>
  
 ![](https://komarev.com/ghpvc/?username=77Poojan&color=orange)
 
