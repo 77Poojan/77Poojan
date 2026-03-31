@@ -1,51 +1,40 @@
-# Pujan Bade
+Pujan Bade
+👋 About Me
 
-## 👋 Welcome!
+I’m Pujan Bade, a Senior Developer and Project Lead focused on building scalable, production-grade applications and leading end-to-end system development.
 
-I’m **Pujan Bade**, a **Senior Developer and Project Lead** with a passion for building scalable applications and leading high-performing teams. With a strong foundation in backend architecture, frontend frameworks, and cloud deployment, I thrive in driving projects from concept to launch with precision and purpose.
+With experience across backend architecture, modern frontend frameworks, and cloud infrastructure, I specialize in designing systems that are efficient, reliable, and built to scale.
 
-- 👀 I’m deeply interested in programming, web architecture, and leveraging emerging technologies to solve real-world problems.
-- 🤝 I’m open to collaborating on impactful projects, contributing to open-source communities, and mentoring aspiring developers.
-- 📫 Reach me at: **[poojanbade75@gmail.com](mailto:poojanbade75@gmail.com)**
+I enjoy solving complex engineering problems, optimizing performance, and turning ideas into impactful products.
 
-![Profile Views](https://komarev.com/ghpvc/?username=77Poojan&color=orange)
+🔍 Focus Areas: Backend Systems, APIs, Distributed Architecture
+🚀 Strengths: System Design, Performance Optimization, Scalable Infrastructure
+🤝 Open to: High-impact projects, collaborations, and mentorship
+📫 Contact: poojanbade75@gmail.com
 
+🚀 Featured Projects
+🔹 Scalable Booking System (BookRide API)
+Designed a high-concurrency booking system handling simultaneous ride requests
+Implemented rate limiting, queuing, and load testing (Node.js)
+Improved system reliability under stress conditions
+Tech: Node.js, Redis, PostgreSQL, Docker
 
-## 🧠 Technical Skills
+🔹 Real-Time Tracking System
+Built a real-time geolocation system with high precision tracking
+Optimized performance using caching and efficient data structures
+Achieved ~98% location accuracy and reduced latency significantly
+Tech: Django, Redis, WebSockets
 
-<div align="center">
-  <!-- Tech Stack Icons -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,nodejs,express,prisma,react,nextjs,flutter,html,css,tailwind,bootstrap,vercel,aws,postgres,mysql,chatgpt,claude,huggingface,vscode,github,git,socketio,pipeline" height="80" alt="Tech Stack" />
-</div>
+🔹 Data Analytics & Visualization Platform
+Developed dashboards to analyze large datasets efficiently
+Reduced redundant processing and improved decision-making workflows
+Tech: Django, Plotly, PostgreSQL
 
-
----
-
-## 🌱 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/luluw8071/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🌐 Connect with Me
-
----
-
-<p align="center">
-  <a href="mailto:poojanbade75@gmail.com">
-    <img width="35px" src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/pujan-bade-746175155" target="_blank">
-    <img width="40px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="follow.gif" height="100%" width="35%" />
-</p>
+🧠 Technical Skills
+<div align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,nodejs,express,prisma,react,nextjs,flutter,html,css,tailwind,bootstrap,vercel,aws,postgres,mysql,redis,docker,git,github,vscode" height="80" /> </div>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=77Poojan&show_icons=true&theme=default" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=77Poojan" height="160px"/> </p>
+🌱 Contribution Activity
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg"> <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/LuluW8071/luluw8071/output/github-contribution-grid-snake.svg"> </picture> </div>
+🌐 Connect
+<p align="center"> <a href="mailto:poojanbade75@gmail.com"> <img width="35px" src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://www.linkedin.com/in/pujan-bade-746175155" target="_blank"> <img width="40px" src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
